@@ -87,6 +87,14 @@ var config_data = `
       "code": "tss",
       "type": "counter"
     },
+    { "name": "Amp Scores Missed",
+      "code": "tam",
+      "type": "counter"
+    },
+    { "name": "Speaker Scores Missed",
+      "code": "tsm",
+      "type": "counter"
+    },
     { "name": "Times Amplified",
       "code": "tta",
       "type": "counter"
