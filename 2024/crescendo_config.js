@@ -25,7 +25,8 @@ var config_data = `
         "qm": "Quals<br>",
         "sf": "Semifinals<br>",
         "f": "Finals<br>",
-        "p": "Practice"
+        "p": "Practice<br>",
+        "t": "Testing"
       },
       "defaultValue": "qm",
       "required": "true"
