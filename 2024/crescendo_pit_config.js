@@ -31,7 +31,7 @@ var config_data = `
       },
       "defaultValue": "o"
     },
-    { "name": "Other Drivetrain",
+    { "name": "Other Drivetrain (one word)",
       "code": "odt",
       "type": "text",
       "size": 20,
