@@ -28,7 +28,7 @@ var config_data = `
         "p": "Practice<br>",
         "t": "Testing"
       },
-      "defaultValue": "qm",
+      "defaultValue": "t",
       "required": "true"
     },
     { "name": "Match #",
