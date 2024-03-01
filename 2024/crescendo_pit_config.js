@@ -63,8 +63,18 @@ var config_data = `
       "code": "fpu",
       "type": "bool"
     },
+    { "name": "Can they fit under the Stage",
+      "code": "ust",
+      "type": "bool"
+    },
     { "name": "Scouting Method /<br>Program (One Word)",
       "code": "sct",
+      "type": "text",
+      "size": 20,
+      "maxSize": 250
+    },
+    { "name": "Programming Language<br>(One Word)",
+      "code": "prl",
       "type": "text",
       "size": 20,
       "maxSize": 250
