@@ -31,12 +31,6 @@ var config_data = `
       },
       "defaultValue": "o"
     },
-    { "name": "Other Drivetrain (one word)",
-      "code": "odt",
-      "type": "text",
-      "size": 20,
-      "maxSize": 50
-    },
     { "name": "Swerve Ratio",
       "code": "sr",
       "type": "radio",
@@ -69,14 +63,14 @@ var config_data = `
       "code": "fpu",
       "type": "bool"
     },
-    { "name": "Autos",
-      "code": "aut",
+    { "name": "Scouting Method /<br>Program (ScoutingPASS?)",
+      "code": "sct",
       "type": "text",
       "size": 20,
       "maxSize": 250
     },
-    { "name": "Scouting Method /<br>Program (ScoutingPASS?)",
-      "code": "sct",
+    { "name": "Autos",
+      "code": "aut",
       "type": "text",
       "size": 20,
       "maxSize": 250
