@@ -78,7 +78,7 @@ var config_data = `
     { "name": "Speaker Scores",
       "code": "ass",
       "type": "counter"
-    }
+    },
     { "name": "Missed Amp Scores",
       "code": "aam",
       "type": "counter"
