@@ -63,7 +63,7 @@ var config_data = `
       "code": "fpu",
       "type": "bool"
     },
-    { "name": "Scouting Method /<br>Program (ScoutingPASS?)",
+    { "name": "Scouting Method /<br>Program (One Word)",
       "code": "sct",
       "type": "text",
       "size": 20,
@@ -73,13 +73,13 @@ var config_data = `
       "code": "aut",
       "type": "text",
       "size": 20,
-      "maxSize": 250
+      "maxSize": 999
     },
     { "name": "Comments",
       "code": "co",
       "type": "text",
       "size": 20,
-      "maxSize": 250
+      "maxSize": 999
     }
   ],
   "auton": [
