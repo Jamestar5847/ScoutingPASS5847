@@ -79,6 +79,14 @@ var config_data = `
       "code": "ass",
       "type": "counter"
     }
+    { "name": "Missed Amp Scores",
+      "code": "aam",
+      "type": "counter"
+    },
+    { "name": "Missed Speaker Scores",
+      "code": "asm",
+      "type": "counter"
+    }
   ],
   "teleop": [
     { "name": "Amp Scores",
