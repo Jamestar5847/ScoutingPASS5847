@@ -98,7 +98,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Amped Speaker Scores",
-      "code": "asm",
+      "code": "ams",
       "type": "counter"
     },
     { "name": "Amp Scores Missed",
@@ -110,7 +110,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Amped Speaker Missed",
-      "code": "asm",
+      "code": "amm",
       "type": "counter"
     },
     { "name": "Pickup From",
