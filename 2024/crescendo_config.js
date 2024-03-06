@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024paca ",
+      "defaultValue": " 2024paca ",
       "required": "true"
     },
     { "name": "Match Level",
@@ -117,12 +117,12 @@ var config_data = `
       "code": "tpu",
       "type": "radio",
       "choices": {
-        "s": "Source<br>",
-        "f": "Floor<br>",
-        "b": "Both<br>",
-        "x": "Not Attempted"
+        " s ": "Source<br>",
+        " f ": "Floor<br>",
+        " b ": "Both<br>",
+        " x ": "Not Attempted"
       },
-      "defaultValue": "x"
+      "defaultValue": " x "
     }
   ],
   "endgame": [
@@ -134,12 +134,12 @@ var config_data = `
       "code": "fs",
       "type":"radio",
       "choices": {
-        "p": "Parked<br>",
-        "o": "Onstage<br>",
-        "s": "Onstage (Spotlit)<br>",
-        "h": "Harmony<br>",
-        "a": "Attempted but failed<br>",
-        "x": "Not attempted"
+        " p ": "Parked<br>",
+        " o ": "Onstage<br>",
+        " s ": "Onstage (Spotlit)<br>",
+        " h ": "Harmony<br>",
+        " a ": "Attempted but failed<br>",
+        " x ": "Not attempted"
       },
       "defaultValue": "x"
     },
@@ -153,10 +153,10 @@ var config_data = `
       "code": "ds",
       "type": "radio",
       "choices": {
-        "n": "Not Effective<br>",
-        "a": "Average<br>",
-        "v": "Very Effective<br>",
-        "x": "Not Observed"
+        " n ": "Not Effective<br>",
+        " a ": "Average<br>",
+        " v ": "Very Effective<br>",
+        " x ": "Not Observed"
       },
       "defaultValue": "x"
     },
@@ -164,11 +164,11 @@ var config_data = `
       "code": "dr",
       "type": "radio",
       "choices": {
-        "b": "Below Average<br>",
-        "a": "Average<br>",
-        "g": "Good<br>",
-        "e": "Excellent<br>",
-        "x": "Did not play defense"
+        "b ": "Below Average<br>",
+        "a ": "Average<br>",
+        "g ": "Good<br>",
+        "e ": "Excellent<br>",
+        "x ": "Did not play defense"
       },
       "defaultValue": "x"
     },
@@ -176,11 +176,11 @@ var config_data = `
       "code": "sr",
       "type": "radio",
       "choices": {
-        "1": "1 (slow)<br>",
-        "2": "2<br>",
-        "3": "3<br>",
-        "4": "4<br>",
-        "5": "5 (fast)"
+        "1 ": "1 (slow)<br>",
+        "2 ": "2<br>",
+        "3 ": "3<br>",
+        "4 ": "4<br>",
+        "5 ": "5 (fast)"
       },
       "defaultValue":"3"
     },
