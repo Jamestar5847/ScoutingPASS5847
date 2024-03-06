@@ -15,20 +15,20 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024paca",
+      "defaultValue": "2024paca ",
       "required": "true"
     },
     { "name": "Match Level",
       "code": "l",
       "type": "level",
       "choices": {
-        "qm": "Quals<br>",
-        "sf": "Semifinals<br>",
-        "f": "Finals<br>",
-        "p": "Practice<br>",
-        "t": "Testing"
+        "qm ": "Quals<br>",
+        "sf ": "Semifinals<br>",
+        "f ": "Finals<br>",
+        "p ": "Practice<br>",
+        "t ": "Testing"
       },
-      "defaultValue": "t",
+      "defaultValue": "t ",
       "required": "true"
     },
     { "name": "Match #",
@@ -42,12 +42,12 @@ var config_data = `
       "code": "r",
       "type": "robot",
       "choices": {
-        "r1": "Red-1",
-        "b1": "Blue-1<br>",
-        "r2": "Red-2",
-        "b2": "Blue-2<br>",
-        "r3": "Red-3",
-        "b3": "Blue-3"
+        "r1 ": "Red-1",
+        "b1 ": "Blue-1<br>",
+        "r2 ": "Red-2",
+        "b2 ": "Blue-2<br>",
+        "r3 ": "Red-3",
+        "b3 ": "Blue-3"
       },
       "required":"true"
     },
