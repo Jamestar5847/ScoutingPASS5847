@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": " 2024paca ",
+      "defaultValue": " 2024ilpe ",
       "required": "true"
     },
     { "name": "Match Level",
