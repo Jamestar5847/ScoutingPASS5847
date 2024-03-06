@@ -97,6 +97,10 @@ var config_data = `
       "code": "tss",
       "type": "counter"
     },
+    { "name": "Amped Speaker Scores",
+      "code": "asm",
+      "type": "counter"
+    },
     { "name": "Amp Scores Missed",
       "code": "tam",
       "type": "counter"
@@ -105,8 +109,8 @@ var config_data = `
       "code": "tsm",
       "type": "counter"
     },
-    { "name": "Times Amplified",
-      "code": "tta",
+    { "name": "Amped Speaker Missed",
+      "code": "asm",
       "type": "counter"
     },
     { "name": "Pickup From",
