@@ -55,7 +55,7 @@ function addTimer(table, idx, name, data) {
     } else {
       ct.setAttribute("name", data.code);
     }
-    ct.setAttribute("value", "[]");
+    ct.setAttribute("value", " [] ");
     cell.appendChild(ct);
     ct = document.createElement('input');
     ct.setAttribute("type", "text");
