@@ -16,7 +16,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": " 2024arli ",
+      "defaultValue": " 2024ilpe ",
       "required": "true"
     },
     { "name": "Match Level",
