@@ -29,7 +29,7 @@ var config_data = `
         "p ": "Practice<br>",
         "t ": "Testing"
       },
-      "defaultValue": "t ",
+      "defaultValue": "p ",
       "required": "true"
     },
     { "name": "Match #",
